@@ -1,0 +1,2 @@
+Project = "sawi"
+Environment = "dev"
